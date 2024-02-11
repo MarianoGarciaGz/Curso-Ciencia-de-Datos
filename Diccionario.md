@@ -1,0 +1,2 @@
+- Ciencia de datos: Es una práctica multidisciplinaria que busca generar decisiones basadas en los datos y administrar su consecuencia.
+- Dato: El dato esa la unidad mínima de información.
