@@ -29,6 +29,7 @@ Cada día se sube más información a internet, _Eric Schmidt_ nos dice que si d
 - Deep learning
 
 ---
+
 ## Entendimiento del negocio
 
 El entendimiento del negocio es comprender el **contexto** que existe acerca del negocio.
@@ -108,8 +109,6 @@ Existen diversas cosas que debe tener un científico de datos.
 
 ---
 
-
-
 ![Diagrama de tratamiento de información](assets/Pasted%20image%2020240207183636.png)
 
 # Tema 1.2 - Historia
@@ -150,7 +149,6 @@ Herramientas:
 
 ## Data scientist tools
 
-
 Herramientas:
 
 - Conocer librerías de Python o R
@@ -163,10 +161,65 @@ Herramientas:
 
 - Conocer librerías de Python o R
 
-
-
 # Tema 1.4 - Técnicas Y Herramientas Para Ciencia De Datos
 
 # Tema 1.5 - Origen De Los Datos
 
+---
+
 # Tema 1.6 - Formatos Y Extracción De Datos
+
+El proceso de extracción de datos comienza con la identificación de las fuentes de datos. ==Se debe tener claro qué datos se necesita y dónde se encuentran.== Las fuentes pueden ser desde documentos, bases de datos hasta en redes sociales y una vez identificado la fuente, debemos saber que método debemos usar.
+
+---
+
+## Desafíos
+
+- Volumen de los datos
+- Complejidad de los datos
+- Manejo y monitoreo de los errores
+- Escalabilidad
+- Automatización
+- Heterogeneidad de los datos
+
+---
+## Extracción vs minería de datos
+
+
+---
+
+### Extracción
+
+La extracción es solamente recopular datos de distintas fuentes y prepararlos para su análisis o almacenamiento
+
+---
+
+### Minería de datos
+
+Es reconocer patrones, tendencias, ideas o conocimientos valiosos a partir de un conjunto de datos.
+
+La minería de datos a menudo requiere una comprensión profunda del análisis estadístico y el aprendizaje automático.
+
+#### Identificar fuentes de datos
+
+El proceso de extracción de datos comienza en la identificación de las fuentes de datos, o sea de dónde se extrae la información.
+
+#### Fuente de conexión
+
+Luego,
+
+#### Consulta o recuperación
+
+Puede extraerse mediante
+
+#### Transformación y carga de datos
+
+En este paso se convierten los datos a un formato requerido por el destino final para que sea más fácil para su analisis.
+
+## Web scraping
+
+El web scraping se utuliza para recopilar datos de diversas fuentes en línea, como sitios web, de comercio electrónico, sitios de noticias, etc...
+
+## Extracción basada en API
+
+Muchos servicios web proporcionan API que les permiten a los desarrolladores recuperar datos de aplicaciones en un formato estructurado, este consiste en solicitudes HTTP a estas API y luego recuperar datos.
