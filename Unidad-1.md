@@ -46,7 +46,7 @@ Tenemos el ejemplo sencillo de buscar información sobre si es zona comercial el
 
 Nosotros seguimos un algoritmo diferente en la cabeza para llegar a una respuesta. Todos revisamos la ubicación del restaurante y evaluamos el vecindario. Sin embargo, cada uno de nosotros tiene una medida diferente de que tan lejos revisar para tomar una decisión.
 
-El proceso que nosotros seguimos para obtener nuestra conclusión sobre qué tipo de negocio puede ser, está similar al proceso de [Machine Learning](../../../Developer/Machine%20Learning.md).
+El proceso que nosotros seguimos para obtener nuestra conclusión sobre qué tipo de negocio puede ser, está similar al proceso de [Machine Learning](../../../Engineering/Machine%20Learning.md).
 
 (algoritmo K, vecinos cercanos)
 
