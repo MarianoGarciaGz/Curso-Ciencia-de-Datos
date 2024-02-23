@@ -223,3 +223,4 @@ El web scraping se utuliza para recopilar datos de diversas fuentes en línea, c
 ## Extracción basada en API
 
 Muchos servicios web proporcionan API que les permiten a los desarrolladores recuperar datos de aplicaciones en un formato estructurado, este consiste en solicitudes HTTP a estas API y luego recuperar datos.
+
