@@ -1,6 +1,4 @@
-# Objetivo
-
-Conocer los conceptos básicos de Ciencia de Datos
+Objetivo: Conocer los conceptos básicos de Ciencia de Datos
 
 ---
 
@@ -20,10 +18,7 @@ Conjunto de metodologías para absorber datos y obtener conclusiones significati
 
 Cada día se sube más información a internet, _Eric Schmidt_ nos dice que si desde un inicio hubiéramos tenido registro de más información desde un comienzo, la cantidad de información sería inmensa y con la llegada de la tecnología y su evolución, esto está avanzando cada vez más a pasos agigantados.
 
----
-
-### Casos de estudio
-
+ **Casos de estudio**:
 - Machine learning tradicional
 - Internet of Things (IoT)
 - Deep learning
@@ -71,35 +66,6 @@ El **Modelo Canvas** es una herramienta de gestión estratégica que te permit
 
 ---
 
-## El rol del científico de datos
-
-Es el responsable de guiar un proyecto de ciencia de datos de inicio a fin.
-
-Trabajar directamente con los datos, realizar pruebas estadísticas, aplicar modelos de aprendizaje de máquina y evaluar los resultados.
-
-#### Persona
-
-Existen diversas cosas que debe tener un científico de datos.
-
-##### Conocimientos
-
-- Programación (conocer lenguajes de programación)
-- Estadística
-- Comunicación (saber transmitir seguridad)
-- Visualización de datos (graficación de datos)
-- Experiencia (experiencia en el rol)
-
-##### Actitud
-
-- Ser creativo (para programar y encontrar soluciones)
-- Tolerancia a los fallos
-- Comprender sus herramientas
-- Aprecio por la diversidad
-- Escepticismo
-- Habilidad de la comunicación
-
----
-
 ## ¿Cómo abordar un problema de ciencia de datos?
 
 1. Establecer una línea base de comparación
@@ -111,30 +77,35 @@ Existen diversas cosas que debe tener un científico de datos.
 
 ![Diagrama de tratamiento de información](assets/Pasted%20image%2020240207183636.png)
 
-# Tema 1.2 - Historia
 
-## Cuarta revolución industrial
+# Tema 1.2 - Habilidades De Un Científico De Datos
 
-## Campos de uso
+## El rol del científico de datos
 
-### Banca
+Es el responsable de guiar un proyecto de ciencia de datos de inicio a fin.
 
-### Ciberseguridad
+Trabajar directamente con los datos, realizar pruebas estadísticas, aplicar modelos de aprendizaje de máquina y evaluar los resultados.
 
-### Riesgo
+Existen diversas cosas que debe tener un científico de datos.
 
-Para predecir decisiones de riesgo
+**Conocimientos:**
+- Programación (conocer lenguajes de programación)
+- Estadística
+- Comunicación (saber transmitir seguridad)
+- Visualización de datos (graficación de datos)
+- Experiencia (experiencia en el rol)
 
-### Imágenes
-
-### Marketing
-
-### Automatización
-
-# Tema 1.3 - Habilidades De Un Científico De Datos
+**Actitud:**
+- Ser creativo (para programar y encontrar soluciones)
+- Tolerancia a los fallos
+- Comprender sus herramientas
+- Aprecio por la diversidad
+- Escepticismo
+- Habilidad de la comunicación
 
 Existen por lo general cuatro areas de un ingeniero en esta area.
 
+---
 ## Data engineer
 
 Esta primer area debe recopilar información y entender lenguajes de programación para mantener la base de datos
@@ -161,20 +132,13 @@ Herramientas:
 
 - Conocer librerías de Python o R
 
-# Tema 1.4 - Técnicas Y Herramientas Para Ciencia De Datos
-
-# Tema 1.5 - Origen De Los Datos
-
 ---
 
-# Tema 1.6 - Formatos Y Extracción De Datos
+# Tema 1.3 - Formatos Y Extracción De Datos
 
 El proceso de extracción de datos comienza con la identificación de las fuentes de datos. ==Se debe tener claro qué datos se necesita y dónde se encuentran.== Las fuentes pueden ser desde documentos, bases de datos hasta en redes sociales y una vez identificado la fuente, debemos saber que método debemos usar.
 
----
-
-## Desafíos
-
+**Desafíos:**
 - Volumen de los datos
 - Complejidad de los datos
 - Manejo y monitoreo de los errores
@@ -183,44 +147,33 @@ El proceso de extracción de datos comienza con la identificación de las fuente
 - Heterogeneidad de los datos
 
 ---
+
 ## Extracción vs minería de datos
 
+**Extracción:** La extracción es solamente recopilar datos de distintas fuentes y prepararlos para su análisis o almacenamiento
 
 ---
 
-### Extracción
-
-La extracción es solamente recopular datos de distintas fuentes y prepararlos para su análisis o almacenamiento
-
----
-
-### Minería de datos
-
-Es reconocer patrones, tendencias, ideas o conocimientos valiosos a partir de un conjunto de datos.
+**Minería de datos:** Es reconocer patrones, tendencias, ideas o conocimientos valiosos a partir de un conjunto de datos.
 
 La minería de datos a menudo requiere una comprensión profunda del análisis estadístico y el aprendizaje automático.
 
-#### Identificar fuentes de datos
+---
+
+## Identificar fuentes de datos
 
 El proceso de extracción de datos comienza en la identificación de las fuentes de datos, o sea de dónde se extrae la información.
 
-#### Fuente de conexión
+1. Fuente de conexión
+2. Consulta o recuperación 
+3. **Transformación y carga de datos:** En este paso se convierten los datos a un formato requerido por el destino final para que sea más fácil para su análisis.
 
-Luego,
-
-#### Consulta o recuperación
-
-Puede extraerse mediante
-
-#### Transformación y carga de datos
-
-En este paso se convierten los datos a un formato requerido por el destino final para que sea más fácil para su analisis.
+---
 
 ## Web scraping
 
-El web scraping se utuliza para recopilar datos de diversas fuentes en línea, como sitios web, de comercio electrónico, sitios de noticias, etc...
+El web scraping se utiliza para recopilar datos de diversas fuentes en línea, como sitios web, de comercio electrónico, sitios de noticias, etc...
 
 ## Extracción basada en API
 
 Muchos servicios web proporcionan API que les permiten a los desarrolladores recuperar datos de aplicaciones en un formato estructurado, este consiste en solicitudes HTTP a estas API y luego recuperar datos.
-
