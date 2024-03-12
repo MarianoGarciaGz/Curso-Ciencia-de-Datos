@@ -106,3 +106,23 @@ Primeramente es escanear los documentos que los convierte a binario. El software
 
 1. **Determinista**: Proceso que ante las mismas entradas siempre obtenemos las mismas salidas
 2. **Estocástico**: Los procesos estocásticos buscan la forma de predecir diversos fenómenos de manera segura, siempre evitando llegar al 100%.
+
+---
+
+
+### Ejercicio
+
+Una familia se compone de padre, madre y tres jigos y los sueldos mensuales (antes de impuesto), de cada uno de ellos son:
+
+- $7200
+- $8300
+- $25700
+- $6800
+- $8300
+
+1. ¿Cuál es el sueldo promedio de esta familia?
+	  
+2. ¿Cuál es el sueldo de un miembro promedio de esta familia?
+	 
+3. ¿Cuál es el sueldo más común de esta familia?
+	 $8300, lo obtenemos con la moda.
